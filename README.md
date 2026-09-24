@@ -61,7 +61,7 @@ The script manages data inside your `$HOME` directory using the following layout
   - `/shader_cache/` — DXVK state cache.
 
 ## P.S
-   - This is my first repo on github and i dont used ai. Enjoy
+   - This is my first repo on github and i dont used ai(to be honest, i used ai for generating readme.md). Enjoy
 
 ## License
 
