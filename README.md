@@ -25,17 +25,17 @@ Before using this script, ensure you have the following tools installed on your 
 1. Clone this repository or download the script:
    ```bash
    git clone https://github.com/frosteryt44/dwarfs-game
-   cd dwarfs-game-launcher
+   cd dwarfs-game
    ```
 
 2. Make the script executable:
    ```bash
-   chmod +x launch_game.sh
+   chmod +x dwarfload.sh
    ```
 
 3. Run a game by providing the path to the DwarFS image and the relative path to the game executable inside it:
    ```bash
-   ./launch_game.sh /path/to/game.dwarfs bin/game.exe
+   ./dwarfload.sh /path/to/game.dwarf bin/game.exe
    ```
 
 ## ⚙️ Configuration
@@ -46,7 +46,7 @@ If your Proton installation is located elsewhere, or you want to use a different
 
 ```bash
 EXPORT PROTONPATH="$HOME/.local/share/Steam/compatibilitytools.d/GE-Proton9-1"
-./launch_game.sh /path/to/game.dwarfs bin/game.exe
+./dwarfload.sh /path/to/game.dwarfs bin/game.exe
 ```
 
 ## Directory Structure
