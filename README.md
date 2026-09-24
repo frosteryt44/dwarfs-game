@@ -38,7 +38,7 @@ Before using this script, ensure you have the following tools installed on your 
    ./dwarfload.sh /path/to/game.dwarf bin/game.exe
    ```
 
-## ⚙️ Configuration
+## Configuration
 
 By default, the script looks for Proton at `/usr/share/steam/compatibilitytools.d/proton-cachyos-slr`. 
 
