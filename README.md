@@ -24,7 +24,7 @@ Before using this script, ensure you have the following tools installed on your 
 
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/frosteryt44/dwarfs-game
    cd dwarfs-game-launcher
    ```
 
